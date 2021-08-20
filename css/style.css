@@ -223,16 +223,7 @@ line-height: 50px;
   padding: 15px 0;
 }
 .step-icon {
-  width: 14px;
-  /* text-align: center; */
-  height: 14px;
-  /* background-color: var(--brown-color); */
-  /* border-radius: 50%; */
-  /* line-height: 1.6; */
-  /* position: relative; */
-  top: -68px;
-  left: -17px;
-  font-size: 11px;
+ display: none;
 }
   .slider-content{
     left: 2%;

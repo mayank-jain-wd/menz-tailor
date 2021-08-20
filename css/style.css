@@ -225,7 +225,7 @@ line-height: 50px;
 .step-icon {
   width: 14px;
   /* text-align: center; */
-  /* height: 14px; */
+  height: 14px;
   /* background-color: var(--brown-color); */
   /* border-radius: 50%; */
   /* line-height: 1.6; */
@@ -236,7 +236,7 @@ line-height: 50px;
 }
   .slider-content{
     left: 2%;
-    top:15%;
+    top:20%;
   }
   .slider-sec .carousel {
     height: 65vh !important;

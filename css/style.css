@@ -222,8 +222,12 @@ line-height: 50px;
 .cmn-sec{
   padding: 15px 0;
 }
-.step-icon {
- display: none;
+  .step-icon {
+  width: 14px;
+  height: 14px;
+  top: -68px;
+  left: -17px;
+  font-size: 11px;
 }
   .slider-content{
     left: 2%;

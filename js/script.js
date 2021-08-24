@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $('.carousel.carousel-slider').carousel({
   fullWidth: true,
-  indicators: fasle
+  indicators: false
 });
 $('.materialboxed').materialbox();
 $('.carousel.carousel-slider').carousel({
